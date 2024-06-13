@@ -1,7 +1,9 @@
-/*
- * AUTOR: GRADMOSTACH0
- */
 package emuladorcompilador;
+/**
+ *
+ * @author GrandMostach0
+ * 
+ **/
 
 /**
  *
